@@ -10,8 +10,8 @@
    ![Screenshot 2024-11-25 102839](https://github.com/user-attachments/assets/a19da971-edd0-4601-907f-01486a92a8a8)
 
 ## 4. Fourth Slide
-    ![Screenshot 2024-11-25 102908](https://github.com/user-attachments/assets/9be550e8-ec6e-4855-afaf-1dd361f82aa5)
-
+![Screenshot 2024-11-25 102908](https://github.com/user-attachments/assets/3c5f5837-18d2-4d5a-b5f5-881ceb4ba97c)
+s
 ## 5. Fifth Slide
  ![Screenshot 2024-11-25 102938](https://github.com/user-attachments/assets/6e0b75a4-19a3-491e-8e99-8e7821803fe6)
 
